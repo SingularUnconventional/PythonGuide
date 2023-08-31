@@ -1,1 +1,1 @@
-print("It's lulus")
+print("It's lulu")
